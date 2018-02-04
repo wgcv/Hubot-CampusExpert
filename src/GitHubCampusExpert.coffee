@@ -16,7 +16,7 @@
 #   Gustavo Cevallos - WGCV
 
 
-#   It would be great to connect to api the GitHub Campus Experts
+#   It would be great to connect to api of GitHub Campus Experts
 campusExperts = require('./CampusExperts.json')
 
 searchCE = (v) ->
