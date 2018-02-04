@@ -1,0 +1,626 @@
+[
+    {
+        "name" : "Anisha",
+        "lastname" : "Gupta",
+        "username" : "ani6gup",
+        "university" : "Arizona State University",
+        "address" : "Tempe, AZ",
+        "email": "agupt102@asu.edu",
+        "coordinates": [
+            "-111.928001",
+            "33.424564"
+            ],
+        "description" : "Anisha loves bringing tech communities together and dabbles in a variety of projects"
+    },
+    {
+        "name" : "Scott",
+        "lastname" : "Street",
+        "username" : "sprusr",
+        "university" : "Aston University",
+        "address" : "Birmingham, UK",
+        "email": "scott@spru.sr",
+        "coordinates": [
+            "-1.887898",
+            "52.48691"
+            ],
+        "description" : "Scott is a hackathon enthusiast and CS student. His favourite things are cycling, retro tech and beer. When he’s not studying, he loves writing JavaScript to do crazy things like control coffee mugs, shoot rubber bands and make loud noises."
+    },
+    {
+        "name" : "Pandelis ",
+        "lastname" : "Zembashis",
+        "username" : "PandelisZ",
+        "university" : "Birmingham City University",
+        "address" : "Birmingham, UK",
+        "email": "pandelis.zembashis@mail.bcu.ac.uk",
+        "coordinates": [
+            "-1.8889517",
+            "52.4828327"
+            ],
+        "description" : "Pandelis is a computer science person studying at Birmingham City University in while he is originally from . He enjoys spending the weekends with little to no sleep making what he thinks are cool hacks at hackathons all around the UK and sometimes abroad. During the week while he should be studying he enjoys organising lots of different workshops for his community, the Hackathon and Computing Society at BCU. (HaCS)."
+    },
+    {
+        "name" : "Rudhra",
+        "lastname" : "Raveendran",
+        "username" : "ROODAY",
+        "university" : "Boston University",
+        "address" : "Boston",
+        "email": "rooday@bu.edu",
+        "coordinates": [
+            "-71.107247",
+            "42.350437"
+            ],
+        "description" : "Rudy is a Computer Science/Dance student at Boston University. He’s currently the president of MakeBU and an organizer for BU’s annual hackathon, BostonHacks. When he’s not losing sleep at hackathons with Charles, you can probably find him dancing."
+    },
+    {
+        "name" : "Charles",
+        "lastname" : "Ma",
+        "username" : "charlesma4",
+        "university" : "Boston University",
+        "address" : "Boston",
+        "email": "cma4@bu.edu",
+        "coordinates": [
+            "-71.103582919",
+            "42.349081937"
+            ],
+        "description" : "Charles is a Computer Science/Business student at Boston University. He’s currently an organizer for BU’s annual hackathon, as well as an EBM of BU’s Machine Intelligence Community branch. When he’s not losing sleep at hackathons with Rudy, you can probably find him playing ball."
+    },
+    {
+        "name" : "Abdulhakim",
+        "lastname" : "Ajetunmobi",
+        "username" : "abdulajet",
+        "university" : "University of London",
+        "address" : "London",
+        "email": "abdulrapidz@live.com",
+        "coordinates": [
+            "-0.1063918",
+            "51.5272742"
+            ],
+        "description" : "Abdul is a Computer Science student at City, University of London. He is a self-proclaimed Apple fanboy and an advocate for emoji everywhere. Most of his time is spent teaching people about the wonders of native mobile applications by running workshops, attending hackathons or sometimes even both. 😱"
+    },
+    {
+        "name" : "Kim",
+        "lastname" : "",
+        "username" : "kim-codes",
+        "university" : "Concordia University",
+        "address" : "Montreal",
+        "email": "kim-codes@github.com",
+        "coordinates": [
+            "-73.5672559",
+            "45.5016889"
+            ],
+        "description" : "Kim has a natural need to create, imagine, and build. Ask her about all things experty."
+    },
+    {
+        "name" : "Saundra",
+        "lastname" : "Castaneda",
+        "username" : "svcastaneda",
+        "university" : "DePaul University",
+        "address" : "Chicago",
+        "email": "svcastaneda@github.com",
+        "coordinates": [
+            "-87.6295604",
+            "41.8780698"
+            ],
+        "description" : "Saundra of the House Castaneda, the First of Her Name, The Undraggable, Queen of the Blue Demons, Khaleesi of the Great Lake Michigan, Protector of the City, Lady Regnant of the Chicago Seventy Seven, Breaker of Snapstreaks and Mother of Dogs"
+    },
+    {
+        "name" : "Sara",
+        "lastname" : "Chen",
+        "username" : "sara-h-chen",
+        "university" : "Durham University",
+        "address" : "Durham, UK",
+        "email": "sara.h.chen@durham.ac.uk",
+        "coordinates": [
+            "-1.5736302",
+            "54.767964"
+            ],
+        "description" : "Sara organizes tech events for the university’s community when she isn’t busy brooding in her cave, with industrial rock music playing in the background."
+    },
+    {
+        "name" : "Sourabh",
+        "lastname" : "Lal",
+        "username" : "sourabhlal",
+        "university" : "EPFL (École polytechnique fédérale de Lausanne)",
+        "address" : "Lausanne",
+        "email": "sourabh@sourabhs.space",
+        "coordinates": [
+            "6.561913",
+            "46.518428"
+            ],
+        "description" : "Sourabh is a Computer Science student at EPFL (École polytechnique fédérale de Lausanne) in Switzerland specializing in Information Systems and the founder of LauzHack. He loves travelling to new places, and having participated in alot of hackathons is looking to now establish a culture at his university of participating in hackathons all over the world."
+    },
+    {
+        "name" : "Scott",
+        "lastname" : "Bean",
+        "username" : "SCOTTLB",
+        "university" : "Edinburgh Napier University",
+        "address" : "Edinburgh",
+        "email": "40274024@live.napier.ac.uk",
+        "coordinates": [
+           "-3.213577",
+            "55.93323"
+            ],
+        "description" : "Scott is a full time Computer Security and Digital Forensics student at ENU, he can be found hacking together various projects in Python or building virtalised labs in VMWare."
+    },
+    {
+        "name" : "Gwen",
+        "lastname" : "Lofman",
+        "username" : "lionex",
+        "university" : "Florida State University",
+        "address" : "Tallahassee",
+        "email": "Gwen@Lofman.co",
+        "coordinates": [
+           "-84.2985",
+            "30.4419"
+            ],
+        "description" : "Gwen studies Computational Science at Florida State University where she conducts renewable energy research; she also co-directs HackFSU and runs FSU’s SIGGRAPH chapter."
+    },
+    {
+        "name" : "Joe",
+        "lastname" : "Nash",
+        "username" : "joenash",
+        "university" : "GitHub Education",
+        "address" : "London",
+        "email": "joenash@github.com",
+        "coordinates": [
+           "-0.088318",
+            "51.525541"
+            ],
+        "description" : "Joe is the student program manager at GitHub, and works on Campus Experts. If you want to become an Expert, or have questions about GitHub Campus Experts, you can ask Joe ."
+    },
+    {
+        "name" : "Wilson",
+        "lastname" : "Tolentino da Silva",
+        "username" : "stdlibdoh",
+        "university" : "Goldsmiths, University of London",
+        "address" : "London",
+        "email": "wbtsilva@gmail.com",
+        "coordinates": [
+           "-0.035408",
+            "51.474271"
+            ],
+        "description" : "Wilson is a Computer Science student at Goldsmiths, University of London. He is passionate about Swarm Intelligence, mostly because bugs are cool, and about Security, because broken things are the best things. In his spare time, he loves hate-watching superhero TV shows."
+    },
+    {
+        "name" : "Vishnu",
+        "lastname" : "Ks",
+        "username" : "hackerkid",
+        "university" : "Indian Institute of Information Technology, Allahabad",
+        "address" : "Allahabad",
+        "email": "",
+        "coordinates": [
+           "81.770555",
+            "25.430425"
+            ],
+        "description" : "Vishnu Ks is a full stack software developer at Zulip. He started Hack In The North student hackathon while in college."
+    },
+    {
+        "name" : "Chaitanya",
+        "lastname" : "Yadav",
+        "username" : "BelieveC",
+        "university" : "Indian Institute of Information Technology, Allahabad",
+        "address" : "Allahabad, India",
+        "email": "iit2015120@iiita.ac.in",
+        "coordinates": [
+          "81.770679",
+            "25.430416"
+            ],
+        "description" : "Chaitanya is a fullstack Rails developer currently studying Information Technology at IIIT Allahabad. He co-founded BitNotes, a platform for sharing examnotes, papers, assignments etc in his freshman year. Currently, He is serving as Overall Coordinator at Aparoksha-Tech Fest of IIIT-Allahabad, Coordinator at software development wing of Technical Club and Vice-Captain of his college Cricket Team."
+    },
+    {
+        "name" : "Fernanda",
+        "lastname" : "Ochoa",
+        "username" : "FernandaOchoa",
+        "university" : "Instituto Tecnológico de León",
+        "address" : "León, Guanajuato, México.",
+        "email": "monsh8a@gmail.com",
+        "coordinates": [
+          "-101.627522",
+            "21.109226"
+            ],
+        "description" : "Fernanda Ochoa is a Computer System Student and Team Braver’s Captain. Founder of Bravers Community at Tecnológico de León. Developer as a conviction and Maker as an accident :D"
+    },
+    {
+        "name" : "Ruxandra",
+        "lastname" : "Anghel",
+        "username" : "ruxiang05",
+        "university" : "King's College London",
+        "address" : "London",
+        "email": "ruxiang05@gmail.com",
+        "coordinates": [
+           "-0.115997",
+            "51.5114864"
+            ],
+        "description" : "Ruxi is a Computer Science student at King’s College London, involved with KCL Tech Society, organising hackathons and helping out with workshops and events. She enjoys simple things like food, dogs and monochromes."
+    },
+    {
+        "name" : "Kunal",
+        "lastname" : "Gupta",
+        "username" : "kunall17",
+        "university" : "Manipal Institute Of Technology",
+        "address" : "Manipal",
+        "email": "kunall.gupta17@gmail.com",
+        "coordinates": [
+            "74.792819",
+            "13.352533"
+            ],
+        "description" : "Kunal is studying IT at MIT, India, who loves to do stuff related to tech, has been tinkering with computer’s since a long time and most of his experience is on developing mobile apps (cross-platform and native) & web server backend development which was gained by contributing to open source organization of his two terms of Google summer of code participant. Check out his latest updates/blogs/tutorials here"
+    },
+    {
+        "name" : "Nate",
+        "lastname" : "Kurt",
+        "username" : "nathankurt",
+        "university" : "Michigan State University",
+        "address" : "East Lansing",
+        "email": "nate.kurt@gmail.com",
+        "coordinates": [
+           "-84.484863",
+            "42.728147"
+            ],
+        "description" : "Nate is a Computer Science Major at Michigan State University, and is currently the director of SpartaHack. He’s a student who loves to lead a team and find cool new technology that people have made. When he’s not doing that stuff though, you can probably catch him playing board games, watching movies, or trying to figure out how to smartify his home for as cheap as possible."
+    },
+    {
+        "name" : "Teresa Luz",
+        "lastname" : "Miller",
+        "username" : "teresawithoutah",
+        "university" : "Montclair State University",
+        "address" : "Montclair",
+        "email": "teresawithoutah@gmail.com",
+        "coordinates": [
+           "-74.1976453",
+            "40.8606551"
+            ],
+        "description" : "Teresa is doing cool things when she’s trying not to accept the pickle juice."
+    },
+    {
+        "name" : "Juan",
+        "lastname" : "Flores",
+        "username" : "juanpflores",
+        "university" : "National Autonomous University of Mexico",
+        "address" : "Mexico City",
+        "email": "jp@juanpabloflores.me",
+        "coordinates": [
+          "-99.186373",
+            "19.317196"
+            ],
+        "description" : "Juan Pablo is a Computer Engineering student at the National Autonomous University of Mexico (UNAM). He was founder of MXHacks in 2013 and Mexico’s Commissioner for Major League Hacking. Today, you might find him doing research in Human Computer Interaction, playing boardgames at night or eating chilaquiles."
+    },
+    {
+        "name" : "Peter",
+        "lastname" : "Dave",
+        "username" : "PeterDaveHello",
+        "university" : "National Chiao Tung University",
+        "address" : "Hsinchu, TW",
+        "email": "hsu@peterdavehello.org",
+        "coordinates": [
+           "120.999645",
+            "24.789071"
+            ],
+        "description" : "Peter is an active free and open source software contributor, a CS student at NCTU and a system admin, who loves music, movie, novel, dramas and the open source philosophy."
+    },
+    {
+        "name" : "Chris",
+        "lastname" : "Cannon",
+        "username" : "ccannon94",
+        "university" : "North Carolina A&T State University",
+        "address" : "Greensboro, NC",
+        "email": "chris.c.cannon@gmail.com",
+        "coordinates": [
+            "-79.775984",
+            "36.07213"
+            ],
+        "description" : "Chris studies Computer Engineering at NCAT, and is a North Carolina native. Chris leads Aggie Robotics and is involved with ACM’s NCAT Chapter and Aggie Autonomous Auto. He enjoys hiking, exploring, reading, and creating within NCAT’s great community of students."
+    },
+    {
+        "name" : "Meghana",
+        "lastname" : "Subramaniam",
+        "username" : "mssubram",
+        "university" : "North Carolina State University",
+        "address" : "Raleigh",
+        "email": "msubram3@ncsu.edu",
+        "coordinates": [
+         "-78.6821",
+            "35.7847"
+            ],
+        "description" : "Meghana is a Computer Science and Economics student at North Carolina State University."
+    },
+    {
+        "name" : "Stephanie",
+        "lastname" : "Angulo",
+        "username" : "angulostephanie",
+        "university" : "Occidental College",
+        "address" : "Los Angeles, CA",
+        "email": "sangulo@oxy.edu",
+        "coordinates": [
+            "-118.210504",
+            "34.127361"
+            ],
+        "description" : "Stephanie is passionate about bringing diversity into tech and gets easily distracted by doggo memes."
+    },
+    {
+        "name" : "Elliot",
+        "lastname" : "Blackburn",
+        "username" : "bluehatbrit",
+        "university" : "Plymouth University, Bristol University, University of West England",
+        "address" : "Bristol",
+        "email": "bluehatbrit@github.com",
+        "coordinates": [
+           "-2.5842643",
+            "51.4526195"
+            ],
+        "description" : "Elliot is a Plymouth Uni alumni, now working in Bristol as a Fullstack Engineer @ Gradient. He originally studied Computing & Game Development but has now transitioned into web technologies, specifically Node.js based dev."
+    },
+    {
+        "name" : "Ervin",
+        "lastname" : "Chua",
+        "username" : "Pancrisp",
+        "university" : "RMIT University",
+        "address" : "Melbourne",
+        "email": "ervin@sparktrail.org",
+        "coordinates": [
+           "144.957972",
+            "-37.807763"
+            ],
+        "description" : "Ervin is a big advocate for Melbourne’s student and junior developer community, he enjoys meeting people and bringing them together to create new opportunities. Get in touch for the latest tech gossip down under, you’ll learn that we’re not just all about property and digging rocks out of the ground."
+    },
+    {
+        "name" : "Hugh",
+        "lastname" : "Wells",
+        "username" : "crablab",
+        "university" : "Royal Holloway, University of London",
+        "address" : "Egham",
+        "email": "hugh@crablab.co.uk",
+        "coordinates": [
+           "-0.563063",
+            "51.425673"
+            ],
+        "description" : "Hugh is a Computer Science student at Royal Holloway, UoL. He is a passionate advocate of Open Data and Government accountability and runs UKGovCamp. A serial Hackathon addict he is always up for a game of Werewolf and loves helping get new people into tech, and teaching them new skills and about exciting tools."
+    },
+    {
+        "name" : "Marleni",
+        "lastname" : "",
+        "username" : "mchavana",
+        "university" : "Smith College",
+        "address" : "Northampton, MA",
+        "email": "marlenijchavana@gmail.com",
+        "coordinates": [
+           "-72.6412",
+            "42.3251"
+            ],
+        "description" : "Marleni is a student studying at Smith College and a board member of the organization, Smithies in CS. Marleni is also the Residential life Social Justice and Equity Chair (SJE) and member of the Society of Women Engineers."
+    },
+    {
+        "name" : "Yashovardhan",
+        "lastname" : "Agrawal",
+        "username" : "yashovardhanagrawal",
+        "university" : "The LNM Institute of Information Technology",
+        "address" : "Jaipur",
+        "email": "yashovardhan.agrawal@gmail.com",
+        "coordinates": [
+           "-72.6412",
+            "42.3251"
+            ],
+        "description" : "Yashovardhan Agrawal is an Engineering student at The LNMIIT Jaipur. He is a Computer Science Enthusiast; was an Android Developer in his High School days, later switched into Web Development. He runs an open source organisation Addy (A child organisation of CybrosX), which was one of his Hackathon Projects. He’s the Head of Product at CybrosX, Web Developer at ofca™ and an Open Source Developer at coala. Besides this, he’s a classically trained singer, music programmer & pianist."
+    },
+    {
+        "name" : "John",
+        "lastname" : "Pham",
+        "username" : "johnphamous",
+        "university" : "The University of California, Riverside",
+        "address" : "Riverside",
+        "email": "jpham035@ucr.edu",
+        "coordinates": [
+          "-117.328064",
+            "33.973706"
+            ],
+        "description" : "John is an undergraduate student at UC Riverside. His interests are in everything space and web development. Find him at your next hackathon! He is currently the President of the local ACM chapter."
+    },
+    {
+        "name" : "Amy",
+        "lastname" : "",
+        "username" : "RedRoxProjects",
+        "university" : "The University of Nottingham",
+        "address" : "Nottingham, UK",
+        "email": "amy@adickens.co.uk",
+        "coordinates": [
+           "1.1952",
+            "52.9387"
+            ],
+        "description" : "Amy is a PhD Student from the Mixed Reality Laboratory in the School of Computer Science at The University of Nottingham, UK. Her background is in audio and recording technology, and her current work focuses on gesture sensing and embodied interactions with digital musical instruments, with a specific focus on tailoring technologies for users with complex disabilities. Amy was the lead organiser for the annual Women in Technology Conference for Nottingham (www.inspirewit.com) in 2016 & 2017. Amy is passionate about teaching, learning and sharing technology in all kinds of ways through promoting a friendly open environment for beginners."
+    },
+    {
+        "name" : "Luis",
+        "lastname" : "Jiménez ham",
+        "username" : "luisejrobles",
+        "university" : "Universidad Autónoma de Baja California",
+        "address" : "Tijuana, Baja California",
+        "email": "luisejimenezrobles@gmail.com",
+        "coordinates": [
+          "-116.96532",
+            "32.53545332"
+            ],
+        "description" : "Luis is a Web/App developer currently studying Computer Science Engineering, passionate about outdoor activities, cultural things and learning new things."
+    },
+    {
+        "name" : "Rodolfo",
+        "lastname" : "Ferro",
+        "username" : "RodolfoFerro",
+        "university" : "Universidad de Guanajuato",
+        "address" : "Guanajuato",
+        "email": "ferro@cimat.mx",
+        "coordinates": [
+          "-101.2608264",
+            "21.041348"
+            ],
+        "description" : "Rodolfo is a math student at Universidad de Guanajuato, currently working on machine learning stuff with a bit of computer vision. And bots… He currently runs a Python podcast in Spanish; is co-founder @ future·lab and a volunteer @ CdeCMx #TeamGuanajuato."
+    },
+    {
+        "name" : "Konrad",
+        "lastname" : "Djimeli",
+        "username" : "djkonro",
+        "university" : "University of Buea",
+        "address" : "Buea",
+        "email": "konrad@djimeli.me",
+        "coordinates": [
+          "9.285903",
+            "4.147451"
+            ],
+        "description" : "Konrad Djimeli is a Computer Science student at the University of Buea, Cameroon. He is a software developer and an organizer within the Silicon Mountain community in Africa. He is an open source developer, evangelist and a GitHub Campus Expert in his community. He also believes you are only as limited as your ambitions."
+    },
+    {
+        "name" : "Claudio",
+        "lastname" : "Santoro",
+        "username" : "ovflowd",
+        "university" : "University of Brasília",
+        "address" : "Brasília, Federal District - Brazil",
+        "email": "claudio.santoro@ieee.org",
+        "coordinates": [
+          "-47.8728198",
+            "-15.7631573"
+            ],
+        "description" : "Claudio is a Telecommunications Engineering student at the University of Brasília, also a Research Fellow in the same institution. Actually a Senior Software Engineer at a Startup in Brazil. Claudio loves chocolate, and loves helping people and reading books."
+    },
+    {
+        "name" : "Wilhelm",
+        "lastname" : "Klopp",
+        "username" : "wilhelmklopp",
+        "university" : "University College London",
+        "address" : "London",
+        "email": "wilhelmklopp@github.com",
+        "coordinates": [
+          "-0.1342576",
+            "51.5246684"
+            ],
+        "description" : "Wilhelm currently leads the team that builds UCL API, an API for student developers. Previously he served as the president of the UCL Technology Society and built the Simple Poll slack integration. He likes APIs, emojis, and :partyparrot:"
+    },
+    {
+        "name" : "Elliot",
+        "lastname" : "Whitehead",
+        "username" : "elliotwhitehead",
+        "university" : "University of Colorado, Boulder",
+        "address" : "Boulder, CO",
+        "email": "write@elliot.sh",
+        "coordinates": [
+          "-105.2720066",
+            "40.0088267"
+            ],
+        "description" : "Elliot is a web developer and CS student at CU Boulder. When he’s not working in the code mines, you’ll probably find him on a nearby mountain top or wilderness trail."
+    },
+    {
+        "name" : "Apara",
+        "lastname" : "Venkat",
+        "username" : "AparaV",
+        "university" : "University of Colorado, Boulder",
+        "address" : "Boulder, CO",
+        "email": "apve4733@colorado.edu",
+        "coordinates": [
+          "-105.265942",
+            "40.007581"
+            ],
+        "description" : "Apara is a Computer Science and Applied Math student at University of Colorado Boulder. He is curently an organizer at HackCU, Colorado’s largest collegiate hackathon. When he’s not busy reading the latest research papers, you can find him playing his guitar."
+    },
+    {
+        "name" : "Viktorija",
+        "lastname" : "Lukosiute",
+        "username" : "Mehii",
+        "university" : "University of Edinburgh",
+        "address" : "Edinburgh",
+        "email": "",
+        "coordinates": [
+          "-3.18886",
+            "55.943639"
+            ],
+        "description" : "Vik is a full-time Computer Science student teaching total beginners how to code in her spare time or learning how to salsa and play the piano. Always happy to help and meet new people, just chat me up, you can find me somewhere in the labs or with the CompSoc bunch!"
+    },
+    {
+        "name" : "Gary",
+        "lastname" : "Tong",
+        "username" : "gcttong",
+        "university" : "University of Manitoba",
+        "address" : "Winnipeg, MB, Canada",
+        "email": "tongg@myumanitoba.ca",
+        "coordinates": [
+          "-97.1366",
+            "49.8075"
+            ],
+        "description" : "Gary is a computer science student at the University of Manitoba with a previous degree in biology. He likes going to hackathons to meet new friends and is still trying to learn how to write nice code."
+    },
+    {
+        "name" : "Kevin",
+        "lastname" : "Chen",
+        "username" : "kevchn",
+        "university" : "University of Maryland, College Park",
+        "address" : "College Park, MD",
+        "email": "kev@umd.edu",
+        "coordinates": [
+          "-76.9426",
+            "38.9869"
+            ],
+        "description" : "Kevin is a Computer Science and Mathematics student at the University of Maryland with an interest in deep learning research and algorithmic theory. In his free time, he enjoys teaching, creating short films, and bringing student communities closer together."
+    },
+    {
+        "name" : "Matt",
+        "lastname" : "Burman",
+        "username" : "attburman",
+        "university" : "University of Sheffield",
+        "address" : "Sheffield, UK",
+        "email": "matt@mattburman.com",
+        "coordinates": [
+          "-1.4817909",
+            "53.3815906"
+            ],
+        "description" : "Matt is a Computer science student at the University of Sheffield. He founded HackSheffield in his first year to bring Hackathons to Sheffield. You can find him in Sheffield or feeding his wanderlust someplace else 🛫🌎"
+    },
+    {
+        "name" : "Carlos",
+        "lastname" : "Toxtli",
+        "username" : "toxtli",
+        "university" : "West Virginia University",
+        "address" : "Morgantown",
+        "email": "carlos.toxtli@maul.wvu.edu",
+        "coordinates": [
+            "-79.955936",
+            "39.63614"
+            ],
+        "description" : "I’m Carlos Toxtli (toxtli on GitHub) a Ph.D. in CS student at West Virginia University, Here I’m part of a HCI (Human Computer Interaction) lab where we create very cool prototypes (hardware & software) and the community is growing :slightly_smiling_face: . I’m interested in several technologies like: AI/ML/DL/RL, Bots, VR/AR/MR, crowdsourcing, gaming with RaspberryPI and I’m a documentaries lover and a snacks addict."
+    },
+    {
+        "name" : "Oliver",
+        "lastname" : "Walters",
+        "username" : "CaptainWalters",
+        "university" : "University of Sussex",
+        "address" : "Brighton",
+        "email": "oliver@captainwalters.io",
+        "coordinates": [
+           "-0.0894332",
+            "50.8670045"
+            ],
+        "description" : "Oliver is a 2nd year Computer Science student at the University of Sussex :gb: and founder of the Hackathon Society (HackSussex), you can probably find him in the awesome hat listing his twitter/github handle."
+    },
+    {
+        "name" : "Catherine",
+        "lastname" : "Chung",
+        "username" : "catherinechung",
+        "university" : "University of Southern California",
+        "address" : "Los Angeles, CA",
+        "email": "cathercc@usc.edu",
+        "coordinates": [
+            "-118.243683",
+            "34.052235"
+            ],
+        "description" : "Catherine plays ultimate frisbee and lives for doggo memes."
+    },
+    {
+        "name" : "Kai",
+        "lastname" : "Barclay",
+        "username" : "KaiFish",
+        "university" : "University of Oklahoma",
+        "address" : "Norman, OK",
+        "email": "kai.b.barclay@gmail.com",
+        "coordinates": [
+            "-97.446676",
+            "35.209205"
+            ],
+        "description" : "Kai does Linguistics and Computer Science at OU, though calls the state of Pennsylvania home. You can often find them posting animal videos on facebook. Always willing to talk, just send them a message!"
+    }
+]
